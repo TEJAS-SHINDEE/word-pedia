@@ -65,13 +65,13 @@ We welcome contributions from the community to make the Student Help Portal even
 
 ## Screenshots
 
-![Alt text](oneSC.png?raw=true "Title")
+![Alt text](./src/assets/oneSC.png?raw=true "Title")
 
-![Alt text](twoSC.png?raw=true "Title")
+![Alt text](./src/assets/twoSC.png?raw=true "Title")
 
-![Alt text](threeSC.png?raw=true "Title")
+![Alt text](./src/assets/threeSC.png?raw=true "Title")
 
-![Alt text](fourSC.png?raw=true "Title")
+![Alt text](./src/assets/fourSC.png?raw=true "Title")
 
 ## Footer
 ![Alt text](footer.png?raw=true "Title")
