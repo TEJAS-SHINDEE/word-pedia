@@ -74,7 +74,7 @@ We welcome contributions from the community to make the Student Help Portal even
 ![Alt text](./src/assets/fourSC.png?raw=true "Title")
 
 ## Footer
-![Alt text](footer.png?raw=true "Title")
+![Alt text](./src/assets/footer.png?raw=true "Title")
 
 
 
