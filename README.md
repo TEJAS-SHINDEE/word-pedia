@@ -13,7 +13,7 @@ Welcome to the **Word Pedia**, a web application designed to provide quick acces
 
 ## Introduction
 
-The Student Help Portal is a powerful tool for students to find information quickly and easily. It offers a keyword search function that connects to an interactive API, providing various types of data such as definitions with examples, relevant images, antonym, similiar Rhymes and much more at your fingertips.
+The Word Pedia is a powerful tool for students to find information quickly and easily. It offers a keyword search function that connects to an interactive API, providing various types of data such as definitions with examples, relevant images, antonym, similiar Rhymes and much more at your fingertips.
 
 ## Features
 
